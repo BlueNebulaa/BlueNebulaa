@@ -21,4 +21,8 @@ Hello, I'am Muh. Nabil Ibrahim, AI/ML and Data Science enthusiasts<br><br>🏫I'
 ---
 [![](https://visitcount.itsvg.in/api?id=BlueNebulaa&icon=1&color=1)](https://visitcount.itsvg.in)
 
+<img src="https://raw.githubusercontent.com/BlueNebulaa/BlueNebulaa/output/snake.svg" alt="Snake animation" />
+
+###
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
